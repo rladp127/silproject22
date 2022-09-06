@@ -11,3 +11,6 @@
 
 ## [0. 나가기]
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/나가기.png?raw=true" width = 500>
+
+## 소감
+처음으로 intellij를 사용하여 개발하였는데, 깔끔한 디자인과 기능 덕분에 새로운 기분으로 코딩할 수 있었다. 여러 개의 클래스와 인터페이스를 사용하였는데 관련한 자바 개념을 조금 더 보충시켜야 할 필요가 있다고 느꼈다.
