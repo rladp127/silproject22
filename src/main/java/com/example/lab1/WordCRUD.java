@@ -21,7 +21,7 @@ public class WordCRUD implements ICRUD{
 
         System.out.print("뜻 입력 : ");
         String meaning = s.nextLine();
-        return new Word(0, level, word, meaning);
+        return new Word(0, level, word, meaning); // Word 생성
     }
 
     public void addWord() {

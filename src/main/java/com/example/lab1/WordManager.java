@@ -8,7 +8,7 @@ public class WordManager {
     Scanner s = new Scanner(System.in);
     WordManager() {
         wordCRUD = new WordCRUD(s);
-    }
+    } // 생성자
     public int selectMenu() {
         Scanner s = new Scanner(System.in);
         System.out.print("*** 영단어 마스터 ***\n" +
@@ -24,17 +24,17 @@ public class WordManager {
                 "********************\n" +
                 "=> 원하는 메뉴는? ");
 
-        return s.nextInt();
+        return s.nextInt(); // 선택한 메뉴 반환
     }
     public void start() {
         while(true) {
             int menu = selectMenu();
             if (menu == 0) break;
 
-            if (menu == 4) {
+            if (menu == 4) { // 단어 추가
                  wordCRUD.addWord();
             }
-            else if (menu == 1) {
+            else if (menu == 1) { // 모든 단어 보기
                 wordCRUD.listAll();
             }
         }
