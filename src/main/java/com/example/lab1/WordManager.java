@@ -27,6 +27,7 @@ public class WordManager {
         return s.nextInt(); // 선택한 메뉴 반환
     }
     public void start() {
+        WordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
             if (menu == 0) {
@@ -35,10 +36,25 @@ public class WordManager {
             }
 
             if (menu == 4) { // 단어 추가
-                 wordCRUD.addWord();
+                 wordCRUD.addItem();
             }
             else if (menu == 1) { // 모든 단어 보기
                 wordCRUD.listAll();
+            }
+            else if (menu == 2) {
+                wordCRUD.searchLevel();
+            }
+            else if (menu == 3) {
+                wordCRUD.searchWord();
+            }
+            else if (menu == 5) { // update
+                wordCRUD.updateItem();
+            }
+            else if (menu == 6) { // delete
+                wordCRUD.deleteItem();
+            }
+            else if (menu == 7) { // save data
+                wordCRUD.saveFile();
             }
         }
     }

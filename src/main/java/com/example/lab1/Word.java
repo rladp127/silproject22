@@ -55,4 +55,8 @@ public class Word {
                 + String.format("%15s", word) + "  " + meaning; // *(level) + 단어 + 뜻
         return str;
     }
+
+    public String toFileString() {
+        return this.level + "|" + this.word + "|" + this.meaning;
+    }
 }
