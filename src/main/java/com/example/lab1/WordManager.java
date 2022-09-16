@@ -35,10 +35,7 @@ public class WordManager {
                 break;
             }
 
-            if (menu == 4) { // 단어 추가
-                 wordCRUD.addItem();
-            }
-            else if (menu == 1) { // 모든 단어 보기
+            if (menu == 1) { // 모든 단어 보기
                 wordCRUD.listAll();
             }
             else if (menu == 2) {
@@ -46,6 +43,9 @@ public class WordManager {
             }
             else if (menu == 3) {
                 wordCRUD.searchWord();
+            }
+            else if (menu == 4) { // 단어 추가
+                wordCRUD.addItem();
             }
             else if (menu == 5) { // update
                 wordCRUD.updateItem();
