@@ -29,6 +29,7 @@
 
 ## [7. 파일 저장]
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC.png?raw=true" width = 500>
+<p>Dictionary.txt</p>
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC_Dictionary.png?raw=true" width = 500>
 
 ## [0. 나가기]
