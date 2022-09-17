@@ -9,26 +9,27 @@
 
 
 ## [2. 수준별 단어 보기]
-<img src = "https://user-images.githubusercontent.com/89799183/190836548-565c0d7c-a9a1-4b9f-b60e-97c92c0b8bbc.png" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/수준별 단어 보기.png?raw=true" width = 500>
+
 
 ## [3. 단어 검색]
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.png?raw=true" width = 500>
 
 ## [4. 단어 추가]
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/단어 추가_1.png?raw=true" width = 500>
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/단어 추가_2.png?raw=true" width = 500>
 
 ## [5. 단어 수정]
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC_1.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC_2.png?raw=true" width = 500>
 
 ## [6. 단어 삭제]
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6_1.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6_2.png?raw=true" width = 500>
 
 ## [7. 파일 저장]
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
-<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/모든 단어 보기.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC.png?raw=true" width = 500>
+<img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC_Dictionary.png?raw=true" width = 500>
 
 ## [0. 나가기]
 <img src = "https://github.com/rladp127/silproject22/blob/master/screenshots/나가기.png?raw=true" width = 500>
