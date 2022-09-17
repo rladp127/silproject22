@@ -1,10 +1,10 @@
 package com.example.lab1;
 
 public class Word {
-    private int id;
-    private int level;
-    private String word;
-    private String meaning;
+    private int id; // index
+    private int level; // 난이도
+    private String word; // 영단어
+    private String meaning; // 뜻
 
     // 생성자
     Word() {}
